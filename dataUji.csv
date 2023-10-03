@@ -1,0 +1,11 @@
+IdPelamar;Jk;Usia;Pengalaman;Pendidikan;TesWawancara;TesKemampuan;TesKesehatan;Prediksi;Seleksi;Koreksi
+21;P;1;2;SMK;D;D;Tidak Sehat;;Tidak Diterima;
+22;L;3;3;D3 Teknik Sipil;C;E;Sehat;;Tidak Diterima;
+23;P;1;2;Sarjana Teknik Sipil;E;E;Sehat;;Tidak Diterima;
+24;L;3;2;Sarjana Teknik Sipil;B;C;Sehat;;Diterima;
+25;L;1;3;D3 Teknik Sipil;E;C;Sehat;;Tidak Diterima;
+26;P;3;3;D3 Teknik Sipil;B;E;Sehat;;Tidak Diterima;
+27;L;3;2;SMK;B;C;Sehat;;Diterima;
+28;L;1;3;D3 Teknik Sipil;B;B;Tidak Sehat;;Diterima;
+29;P;2;1;SMK;E;D;Tidak Sehat;;Tidak Diterima;
+30;P;2;3;D3 Teknik Sipil;C;B;Tidak Sehat;;Diterima;

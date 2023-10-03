@@ -1,0 +1,14 @@
+#Tugas Final Project Statistik Komputasi - Program Implementasi Algoritma Naive Bayes
+
+#Tutorial / Langkah-langkah untuk menjalankan website
+
+1. Pindahkan folder NaiveBayes ke c/xampp/htdocs/
+2. Hidupkan Xampp(ataupun mysql server lainnya) dan nyalakan pada bagian apache dan mysql
+3. Buat database dengan nama "karyawan_sasmito"
+4. Import file "karyawan_sasmito.sql" di mysql server anda
+5. Akses link website localhost/NaiveBayes
+
+#Identitas
+Nama	: Masyura Fanni Ramadhan
+NPM	: 21081010103
+Kelas	: Statistik Komputasi B081
